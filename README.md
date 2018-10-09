@@ -8,6 +8,7 @@ I'm an Engineering Manager at [Hudl](https://hudl.com). Despite industry convent
 
 I believe (in no particular order):
 
+- **My primary job functions are to coach, develop, and serve people.** As we state in our management philosophy at Hudl, I believe in the value of having a manager who is capable of coaching reports on the work they do every day, helping them see their path forward and grow toward it, and serving them in their efforts. As a leader, I push myself to steer my interactions with each of my people toward one of these three categories based on their individual preferences and needs throughout their careers.
 - **People are moving targets.** As stated well by [Kim Scott](http://firstround.com/review/warning-this-is-not-your-grandfathers-talent-planning/), peoples' performance, aspirations, and interest in growth changes over time as they take on new challenges and encounter different stages of life. As a leader, I'll work to understand—and routinely re-evaluate—how each of my people is performing and feeling about their career trajectory.
 - **Leveraging strengths matters more than correcting weaknesses.** Unless a weakness is causing a deficiency in performance, optimizing for peoples' strengths will lead to happier, more productive teams. As a leader, I seek to understand and verify my people's strengths and either find opportunities to leverage them myself or help them see those strengths themselves and use them in their day-to-day.
 - **Knowing the why is just as important as knowing the what.** I'm never satisfied by just knowing what decision has been made—I want to know _why_ it's been made. As a leader, I'm committed to being diligent in reasoning out a change or stance as I'm proposing it and communicating it to others to the best of my ability.
@@ -76,11 +77,11 @@ I believe (in no particular order):
 
 As Team Leads, I expect you to:
 
-- Be as open as you're comfortable with me around both work and life issues you're facing
-- Care about your 1:1s, both with me and with your own reports
-- Take time to think about the issues your reports face in relation to the overall engineering chapter
-- Act out the attitudes and behaviors you expect of your reports and peers on your teams (work-life balance, engagement, etc.)
-- Be introspective and curious around your own career and the path you see for yourself at Hudl and outside it
+- Be as open as you're comfortable with me around both work and life issues you're facing. _Never_ feel you're burdening me with your problems (personal or professional)! I want to hear what's going on with you and have opportunities to help where I can.
+- Care about your 1:1s, both with me and with your own reports. Be diligent in scheduling them and intentional about what you're doing in them—don't squander this time!
+- Take time to think about the issues your reports face in relation to the overall engineering chapter. Your reports are your greatest asset in maintaining a pulse on broader strengths and weaknesses of the engineering chapter.
+- Act out the attitudes and behaviors you expect of your reports and peers on your teams (work-life balance, engagement, etc.). Even if you're comfortable behaving a certain way, know that your habits impact those who view you as a leader.
+- Be introspective and curious around your own career and the path you see for yourself at Hudl and outside it. It's okay not to want something more than what you have right now, but take time for yourself to think about your desires and goals!
 - Reach out to me if you ever need to talk outside our 1:1s—I'm more than willing to!
 
 ## What you can expect of me as your manager
