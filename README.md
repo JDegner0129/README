@@ -16,59 +16,59 @@ I believe (in no particular order):
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ 'What to ask in the first 1:1')
 
-What makes you grumpy?
+**What makes you grumpy?**
 
 - Feeling my opinions haven't been heard or seriously considered, above all else
 - People hearing me but not listening to me
 - Being wasteful or squandering—for instance, participating in a poorly run or duplicative meeting, or feeling I or someone else is in a situation that doesn't leverage their skillset effectively
 - Folks making assumptions about the intent of others without actually knowing it (creating stories rather than facts, playing the victim)
 
-How will I know when you’re grumpy?
+**How will I know when you’re grumpy?**
 
 - I'll typically either shut down and talk _less_ than usual and become concessive (if I'm generally upset or not interested in engaging further)
 - ... or start fighting harder to defend my points (if I feel my voice isn't being heard or being considered)
 
-How can I help you when you’re grumpy?
+**How can I help you when you’re grumpy?**
 
 - Making it known that you understand my feelings on something and talking through why you may disagree with them goes a long way when it's a discussion (rather than talking past)
 - More generally, just giving me space to talk about how I felt about a particular situation after you've observed me being grumpy in it—during a 1:1 or a video call briefly after it—will typically put me in a much better state of mind
 
-How do you like feedback - slack, email, in person, etc?
+**How do you like feedback - slack, email, in person, etc?**
 
 - Either in-person or Slack are my preference! Many times, if constructive feedback is given in-person, I'll take time for myself to think it through and provide more detailed thoughts on Slack after processing it
 
-How do you like feedback - routine like in 1:1s, or as-it-happens?
+**How do you like feedback - routine like in 1:1s, or as-it-happens?**
 
 - As it happens, without a doubt 😄
 
-How do you prefer to receive recognition? (public or private)
+**How do you prefer to receive recognition? (public or private)**
 
 - Typically public! More private, verbal recognition from someone I admire goes a long way, as well
 
-What makes 1:1s the most valuable for you?
+**What makes 1:1s the most valuable for you?**
 
 - Often times, I don't need advice so much as a space to talk through challenges that are on my mind and confirmation that I'm not off-base
 - Having someone to push me on things I've expressed interest in or commitment to that are above and beyond what I'm doing day-to-day
 - Help in grounding my work in my strengths and my leadership philosophy (above)
 
-What are your goals for this year? And for the next 3 months?
+**What are your goals for this year? And for the next 3 months?**
 
 - **This year:** To feel proud of how engineering management works at Hudl—meaning that I can clearly articulate the value and reasoning in our specific choices around management structure and responsibilities, as well as that I truly feel we're living those responsibilities out day-to-day
 - **Next three months:** Establish stronger relationships with peer leaders outside engineering at Hudl and use those relationships to more confidently make decisions within engineering
 
-What do you need from your manager?
+**What do you need from your manager?**
 
 - Autonomy, trust, and conscious effort in aligning opportunities with my strengths and interest
 
-From your team?
+**From your team?**
 
 - _I'm defining team as my group of direct reports, for the record._ Above all else, I need candid feedback on what isn't working in our engineering organization, as well as recognition of what is—in terms of people, processes, or culture. I also need that same level of candor around things I am and am not doing well as your manager.
 
-From your peers? (outside the team)
+**From your peers? (outside the team)**
 
 - Honest feedback on how I'm doing as your peer, as well as communication around the problems you're solving in your org that you think could benefit from engineering perspective or could be beneficial _to_ engineering leaders!
 
-What’s your favo~~u~~rite baked good?
+**What’s your favo~~u~~rite baked good?**
 
 - Snickerdoodles and apple crisp are top-tier desserts 👌
 
