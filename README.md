@@ -2,7 +2,7 @@
 
 ## My Role
 
-I'm an Engineering Manager at [Hudl](https://hudl.com). Despite industry convention around this title, this means that I manage Team Leads—who in turn manage engineers—across our engineering organization and spend my days focusing on efforts that impact Hudl engineering as a whole, such as our career progression, promotion process, or creating/staffing specific engineering teams.
+I'm an Engineering Director at [Hudl](https://hudl.com). I manage Engineering Managers across our engineering organization and spend my days focusing on efforts that impact Hudl engineering as a whole, such as our career progression, promotion process, or creating/staffing specific engineering teams.
 
 ## My Leadership Philosophy
 
@@ -75,7 +75,7 @@ I believe (in no particular order):
 
 ## My expectations of folks who report to me
 
-As Team Leads, I expect you to:
+As Engineering Managers, I expect you to:
 
 - Be as open as you're comfortable with me around both work and life issues you're facing. _Never_ feel you're burdening me with your problems (personal or professional)! I want to hear what's going on with you and have opportunities to help where I can.
 - Care about your 1:1s, both with me and with your own reports. Be diligent in scheduling them and intentional about what you're doing in them—don't squander this time!
